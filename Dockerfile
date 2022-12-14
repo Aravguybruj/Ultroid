@@ -26,5 +26,3 @@ RUN bash installer.sh
 COPY . .
 # start the bot.
 CMD ["bash", "startup"]
-
-
